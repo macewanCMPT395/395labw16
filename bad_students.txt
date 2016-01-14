@@ -1,0 +1,7 @@
+Committed conflicts:
+Elliott
+Megan
+
+Used poorly written commit messages:
+Khoa
+Brandon 
