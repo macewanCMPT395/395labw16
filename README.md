@@ -1,5 +1,8 @@
 # 395labw16
 
+This is a beautiful README
+==========================
+
 Purpose
 =======
 
