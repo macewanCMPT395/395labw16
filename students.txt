@@ -3,7 +3,6 @@ Instructor: Cam Macdonell
 Students
 --------
 J.W. Grant MacEwan
-Elliott Sobek
 Ima Student
 Megan Baluch
 David Cao
@@ -20,7 +19,7 @@ Jacob Jones
 Cody Moorhouse
 Alan Yong
 Karl Deutscher
-Chris
-Trevor
 Nigel John
 Khoa Huynh
+Chris Williams
+Trevor Coetzee - CMPT395 w2016
